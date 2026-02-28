@@ -1,0 +1,5 @@
+[
+  "tests/test_steganography.py::TestSteganography::test_basic",
+  "tests/test_steganography.py::TestSteganography::test_empty",
+  "tests/test_steganography.py::TestSteganography::test_type_error"
+]
